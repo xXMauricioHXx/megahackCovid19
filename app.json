@@ -1,0 +1,20 @@
+{
+  "name": "megahack",
+  "displayName": "megahack",
+  "expo": {
+    "name": "megahack",
+    "slug": "megahack",
+    "ios": {
+      "bundleIdentifier": "com.megahack.covid19"
+    },
+    "android": {
+      "package": "com.megahack.covid19",
+      "config": {
+        "googleMaps": { "apiKey": "AIzaSyC97Dq7RbD4MFIKSV94fWWxRJXA66tDFvk" }
+      }
+    },
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"]
+  }
+}
